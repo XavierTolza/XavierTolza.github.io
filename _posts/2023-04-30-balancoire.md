@@ -21,7 +21,7 @@ The plans are available at this address: [https://github.com/XavierTolza/menuise
 
 Everything was made using Freecad 0.19 so all dimensions are parametric and could be changed easely, so no problem if your child is insanely fat!
 
-![1](https://github.com/XavierTolza/menuiserie_balancoire/raw/master/img/fat.png)
+![1](https://github.com/XavierTolza/menuiserie_balancoire/raw/master/img/big.png)
 ![2](https://github.com/XavierTolza/menuiserie_balancoire/raw/master/img/less.png)
 
 You can download the complete PDF plans over here:
