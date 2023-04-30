@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+No, sorry, you won't get anything interresting about me to know!
 
-### More Information
+### Contact
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[tolza.xavier@gmail.com](mailto:tolza.xavier@gmail.com)
