@@ -1,10 +1,30 @@
 ---
 layout: post
-title: You're up and running!
+title: Wooden child's swing plans
 ---
+![global](https://github.com/XavierTolza/menuiserie_balancoire/raw/master/img/plans.png)
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Here you can find plans for a simple wooden child swing I made.
+Work was inspired by several projects on pinterest:
+* https://www.pinterest.fr/pin/312015080429748630/
+* https://www.pinterest.fr/pin/183592122301817026/
+* https://www.pinterest.fr/pin/507499451763508148/
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I used some raw palette wood I collected near my house, I disassembled the palettes using a homemade dismantler
+![dismantler](https://media.screwfix.fr/is/image/ae235?src=ae235/6765X_P&$prodImageFull$)
+I made it following those instructions:
+https://www.youtube.com/watch?v=qTmqAQsLb4o&t=103s
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+The plans are available at this address: [https://github.com/XavierTolza/menuiserie_balancoire](https://github.com/XavierTolza/menuiserie_balancoire) 
+
+[main](https://github.com/XavierTolza/menuiserie_balancoire/raw/master/img/about.png)
+
+Everything was made using Freecad 0.19 so all dimensions are parametric and could be changed easely, so no problem if your child is insanely fat!
+
+[1](https://github.com/XavierTolza/menuiserie_balancoire/raw/master/img/fat.png)
+[2](https://github.com/XavierTolza/menuiserie_balancoire/raw/master/img/less.png)
+
+You can download the complete PDF plans over here:
+https://github.com/XavierTolza/menuiserie_balancoire/blob/master/plans.pdf
+
+Sorry, it's in [french](https://www.youtube.com/watch?v=pfUmW_Mf5qc).
