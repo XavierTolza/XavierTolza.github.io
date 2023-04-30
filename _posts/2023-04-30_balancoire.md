@@ -6,9 +6,9 @@ title: Wooden child's swing plans
 
 Here you can find plans for a simple wooden child swing I made.
 Work was inspired by several projects on pinterest:
-* https://www.pinterest.fr/pin/312015080429748630/
-* https://www.pinterest.fr/pin/183592122301817026/
-* https://www.pinterest.fr/pin/507499451763508148/
+* [https://www.pinterest.fr/pin/312015080429748630/](https://www.pinterest.fr/pin/312015080429748630/)
+* [https://www.pinterest.fr/pin/183592122301817026/](https://www.pinterest.fr/pin/312015080429748630/)
+* [https://www.pinterest.fr/pin/507499451763508148/](https://www.pinterest.fr/pin/312015080429748630/)
 
 I used some raw palette wood I collected near my house, I disassembled the palettes using a homemade dismantler
 ![dismantler](https://media.screwfix.fr/is/image/ae235?src=ae235/6765X_P&$prodImageFull$)
